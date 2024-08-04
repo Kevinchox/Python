@@ -17,4 +17,3 @@ def main():
             print("Opción no válida. Inténtalo de nuevo.")  # Si selecciona una opción no válida imprime el mensaje de "Error"
 if __name__ == "__main__":
     main()  # Llama a la función main para iniciar el programa
-#ahora si se sincroniza
