@@ -43,8 +43,6 @@
 - `input()`: Captura la elección del usuario.
 
 10. Ejecución del programa
-
- 
 - Ejecución: Ejecuta `main()` si el script es ejecutado directamente.
 
 
