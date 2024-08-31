@@ -47,3 +47,8 @@
  
 - Ejecución: Ejecuta `main()` si el script es ejecutado directamente.
 
+
+Objetivo del programa:
+- El programa implementa una versión básica del juego Pong en la terminal, donde dos jugadores controlan raquetas para golpear una pelota que rebota entre ellas.
+
+2024/08/31
